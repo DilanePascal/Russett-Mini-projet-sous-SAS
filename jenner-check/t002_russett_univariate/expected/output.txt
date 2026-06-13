@@ -1,0 +1,120 @@
+                                           Inegalite agricole (GINI) par pays                                           
+
+                                                The UNIVARIATE Procedure
+                                                    Variable:  gini
+
+                                                        Moments
+
+N                                 23    Sum Weights                       23
+Mean                       71.426087    Sum Observations         1642.800000
+Std Deviation              16.805957    Variance                  282.440198
+Skewness                   -0.256443    Kurtosis                   -1.309057
+Uncorrected SS         123552.460000    Corrected SS             6213.684348
+Coeff Variation            23.529158    Std Error Mean              3.504284
+
+          Basic Statistical Measures          
+
+Location             Variability              
+--------  ---------  -------------  ----------
+Mean      71.426087  Std Deviation   16.805957
+Median    74.000000  Variance       282.440198
+Mode      74.000000  Range           50.100000
+
+     NOTE: The mode displayed is the smallest of 2 modes with a count of 2.
+
+Quantiles (Definition 5)
+
+Quantile     Estimate
+----------  ---------
+0% Min      43.700000
+1%          43.700000
+5%          45.800000
+10%         47.000000
+25% Q1      57.700000
+50% Median  74.000000
+75% Q3      86.300000
+90%         92.900000
+95%         93.800000
+99%         93.800000
+100% Max    93.800000
+
+          Extreme Observations          
+
+Lowest               Highest            
+--------  ---------  --------  ---------
+Value     43.700000  Value     87.500000
+Value     45.800000  Value     90.900000
+Value     47.000000  Value     92.900000
+Value     49.700000  Value     93.800000
+Value     52.200000  Value     93.800000
+
+
+
+
+         Tests for Location          
+
+Test                Statistic   p Value
+------------------  ---------  --------
+Student's t         20.382503371         0
+Sign                     11.5  0.000000238
+Signed Rank               276  0.000027033
+
+                  Relation entre l'acces a la propriete (farm) des terres et le type de regime (demo)                   
+
+                                                The UNIVARIATE Procedure
+                                                    Variable:  farm
+
+                                                        Moments
+
+N                                 23    Sum Weights                       23
+Mean                       92.395652    Sum Observations         2125.100000
+Std Deviation               7.187140    Variance                   51.654980
+Skewness                   -0.635469    Kurtosis                   -1.247537
+Uncorrected SS         197486.410000    Corrected SS             1136.409565
+Coeff Variation             7.778656    Std Error Mean              1.498622
+
+         Basic Statistical Measures          
+
+Location             Variability             
+--------  ---------  -------------  ---------
+Mean      92.395652  Std Deviation   7.187140
+Median    96.900000  Variance       51.654980
+Mode      98.100000  Range          20.400000
+
+Quantiles (Definition 5)
+
+Quantile     Estimate
+----------  ---------
+0% Min      79.300000
+1%          79.300000
+5%          79.800000
+10%         81.500000
+25% Q1      86.100000
+50% Median  96.900000
+75% Q3      98.100000
+90%         99.300000
+95%         99.600000
+99%         99.700000
+100% Max    99.700000
+
+          Extreme Observations          
+
+Lowest               Highest            
+--------  ---------  --------  ---------
+Value     79.300000  Value     98.200000
+Value     79.800000  Value     98.500000
+Value     81.500000  Value     99.300000
+Value     82.900000  Value     99.600000
+Value     85.800000  Value     99.700000
+
+
+
+
+         Tests for Location          
+
+Test                Statistic   p Value
+------------------  ---------  --------
+Student's t         61.653729608         0
+Sign                     11.5  0.000000238
+Signed Rank               276  0.000027033
+

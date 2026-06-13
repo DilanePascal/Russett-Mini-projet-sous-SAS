@@ -1,0 +1,12 @@
+continent       pays  gini   gnpr                 demo
+---------  ---------  ----  -----  -------------------
+      AFR     Egypte  74.0  133.0            dictature
+      AMN       Cuba  79.2  361.0            dictature
+      AMS  Argentine  86.3  374.0  democratie instable
+      AMS    Bolivie  93.8   66.0            dictature
+      AMS     Bresil  83.7  262.0  democratie instable
+      AMS      Chili  93.8  180.0  democratie instable
+      AMS   Colombie  84.9  330.0  democratie instable
+      AMS      Perou  87.5  140.0            dictature
+      EUR   Autriche  74.0  532.0  democratie instable
+      EUR     Italie  80.3  442.0  democratie instable

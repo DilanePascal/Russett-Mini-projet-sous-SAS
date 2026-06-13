@@ -1,0 +1,8 @@
+{
+  "bundle": "t006_russett_recode_regime",
+  "source_file": "Annexe SAS - Russett.sas",
+  "source_blob_sha": "6fc512d6cfde5ca299281900ceb3da96e87d395b",
+  "source_commit": "089a7a3d6878ba2d1e4eac192f455a7ca7ff2a2f",
+  "tier": "real_data",
+  "notes": "DATA step recodant demo en regime binaire (dictature=1) puis PROC MEANS de gini et gnpr par regime; donnees russett reconstituees."
+}

@@ -1,0 +1,19 @@
+{
+  "_captured_at": "2026-06-13T18:36:53.730572+00:00",
+  "_captured_run_id": "r_019ec245cebb7733843f0cea3131ff4a",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Read 23 rows from DATALINES.",
+    "NOTE: Wrote russett (23 rows, 9 columns).",
+    "NOTE: PROC UNIVARIATE"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}
