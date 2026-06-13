@@ -1,0 +1,33 @@
+                    The CORR Procedure
+                     3 Variables:    inst   ecks   death
+                    Simple Statistics
+Variable         N      Mean   Std Dev       Sum   Minimum   Maximum
+--------  --------  --------  --------  --------  --------  --------
+inst            23   14.78261    5.45208   340.00000   0.10000    21.60000
+ecks            23   23.08696   25.69385   531.00000   0.00000   100.00000
+death           23  185.04348  611.33888  4256.00000   0.00000  2900.00000
+   Pearson Correlation Coefficients, N = 23
+          Prob > |r| under H0: Rho=0
+                inst      ecks     death
+--------  --------  --------  --------
+inst       1.00000  -0.30763  -0.04327
+              .       0.1533    0.8446
+ecks      -0.30763   1.00000   0.70159
+            0.1533      .       0.0002
+death     -0.04327   0.70159   1.00000
+            0.8446    0.0002      .
+                    The CORR Procedure
+                         2 Variables:    gnpr   gini
+                    Simple Statistics
+Variable         N      Mean   Std Dev       Sum   Minimum   Maximum
+--------  --------  --------  --------  --------  --------  --------
+gnpr            23  674.86957  574.11389  15522.00000  66.00000  2343.00000
+gini            23   71.42609   16.80596   1642.80000  43.70000    93.80000
+   Pearson Correlation Coefficients, N = 23
+          Prob > |r| under H0: Rho=0
+                gnpr      gini
+--------  --------  --------
+gnpr       1.00000  -0.25611
+              .       0.2382
+gini      -0.25611   1.00000
+            0.2382      .

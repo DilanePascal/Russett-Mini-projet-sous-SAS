@@ -1,0 +1,8 @@
+{
+  "bundle": "t002_russett_univariate",
+  "source_file": "Annexe SAS - Russett.sas",
+  "source_blob_sha": "6fc512d6cfde5ca299281900ceb3da96e87d395b",
+  "source_commit": "089a7a3d6878ba2d1e4eac192f455a7ca7ff2a2f",
+  "tier": "real_data",
+  "notes": "PROC UNIVARIATE sur gini (par pays) et farm (par regime) avec HISTOGRAM/NORMAL; donnees russett reconstituees en remplacement du PROC IMPORT."
+}
